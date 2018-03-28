@@ -2,6 +2,10 @@ html {
   font-family: Georgia, serif;
 }
 
+main {
+  background-color: #f2f2f2;
+}
+
 tbody tr:nth-child(odd) {
   background-color: #e2e2e2;
 }
